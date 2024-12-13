@@ -1,5 +1,10 @@
 $dokka.format:html-v1
 $dokka.linkExtension:html
+$dokka.location:com.tot.wizardKit.api////PointingToDeclaration/wizard-kit/com.tot.wizardKit.api/index.html
+$dokka.location:com.tot.wizardKit.api/ApiService///PointingToDeclaration/wizard-kit/com.tot.wizardKit.api/-api-service/index.html
+$dokka.location:com.tot.wizardKit.api/ApiService/getConfigJson/#/PointingToDeclaration/wizard-kit/com.tot.wizardKit.api/-api-service/get-config-json.html
+$dokka.location:com.tot.wizardKit.api/RetrofitInstance///PointingToDeclaration/wizard-kit/com.tot.wizardKit.api/-retrofit-instance/index.html
+$dokka.location:com.tot.wizardKit.api/RetrofitInstance/api/#/PointingToDeclaration/wizard-kit/com.tot.wizardKit.api/-retrofit-instance/api.html
 $dokka.location:com.tot.wizardKit.enum////PointingToDeclaration/wizard-kit/com.tot.wizardKit.enum/index.html
 $dokka.location:com.tot.wizardKit.enum/DialogType.ALERT_DIALOG///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}wizard-kit/com.tot.wizardKit.enum/-dialog-type/-a-l-e-r-t_-d-i-a-l-o-g/index.html
 $dokka.location:com.tot.wizardKit.enum/DialogType.BOTTOM_SHEET///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}wizard-kit/com.tot.wizardKit.enum/-dialog-type/-b-o-t-t-o-m_-s-h-e-e-t/index.html
@@ -17,6 +22,7 @@ $dokka.location:com.tot.wizardKit.utils/WizardKit///PointingToDeclaration/wizar
 $dokka.location:com.tot.wizardKit.utils/WizardKit/dpToPx/#kotlin.Int#android.content.Context/PointingToDeclaration/wizard-kit/com.tot.wizardKit.utils/-wizard-kit/dp-to-px.html
 $dokka.location:com.tot.wizardKit.utils/WizardKit/init/#android.content.Context/PointingToDeclaration/wizard-kit/com.tot.wizardKit.utils/-wizard-kit/init.html
 $dokka.location:com.tot.wizardKit.utils/WizardKit/isDarkModeOn/#android.content.Context/PointingToDeclaration/wizard-kit/com.tot.wizardKit.utils/-wizard-kit/is-dark-mode-on.html
+$dokka.location:com.tot.wizardKit.utils/WizardKit/json/#/PointingToDeclaration/wizard-kit/com.tot.wizardKit.utils/-wizard-kit/json.html
 $dokka.location:com.tot.wizardKit.utils/WizardKit/jsonAccordionViewObject/#/PointingToDeclaration/wizard-kit/com.tot.wizardKit.utils/-wizard-kit/json-accordion-view-object.html
 $dokka.location:com.tot.wizardKit.utils/WizardKit/jsonBottomNavigationObject/#/PointingToDeclaration/wizard-kit/com.tot.wizardKit.utils/-wizard-kit/json-bottom-navigation-object.html
 $dokka.location:com.tot.wizardKit.utils/WizardKit/jsonBouncingLoaderObject/#/PointingToDeclaration/wizard-kit/com.tot.wizardKit.utils/-wizard-kit/json-bouncing-loader-object.html
@@ -40,6 +46,28 @@ $dokka.location:com.tot.wizardKit.utils/WizardKit/jsonToastObject/#/PointingToDe
 $dokka.location:com.tot.wizardKit.utils/WizardKit/jsonTypographyObject/#/PointingToDeclaration/wizard-kit/com.tot.wizardKit.utils/-wizard-kit/json-typography-object.html
 $dokka.location:com.tot.wizardKit.utils/WizardKit/jsonYesNoSwitchObject/#/PointingToDeclaration/wizard-kit/com.tot.wizardKit.utils/-wizard-kit/json-yes-no-switch-object.html
 $dokka.location:com.tot.wizardKit.utils/WizardKit/setUpUI/android.content.Context#android.view.View/PointingToDeclaration/wizard-kit/com.tot.wizardKit.utils/-wizard-kit/set-up-u-i.html
+$dokka.location:com.tot.wizardKit.views.accordianView////PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.accordianView/index.html
+$dokka.location:com.tot.wizardKit.views.accordianView/AccordionView///PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.accordianView/-accordion-view/index.html
+$dokka.location:com.tot.wizardKit.views.accordianView/AccordionView/AccordionView/#android.content.Context#android.util.AttributeSet?#kotlin.Int/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.accordianView/-accordion-view/-accordion-view.html
+$dokka.location:com.tot.wizardKit.views.accordianView/AccordionView/applySettings/#kotlin.collections.List[com.tot.wizardKit.model.Section]#kotlin.Int?#kotlin.Int?#kotlin.Boolean?#kotlin.Boolean?#kotlin.Int?#kotlin.Boolean?#kotlin.Int?#kotlin.Int?#kotlin.Int?#kotlin.Int?#kotlin.Int?#kotlin.Int?#kotlin.Int?#kotlin.Int?#kotlin.Int?#kotlin.Int?#kotlin.Int?#kotlin.Int?#kotlin.Int?#kotlin.Int?#kotlin.Int?#kotlin.Int?#kotlin.Int?/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.accordianView/-accordion-view/apply-settings.html
+$dokka.location:com.tot.wizardKit.views.avatar////PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.avatar/index.html
+$dokka.location:com.tot.wizardKit.views.avatar/Avatar///PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.avatar/-avatar/index.html
+$dokka.location:com.tot.wizardKit.views.avatar/Avatar/Avatar/#android.content.Context#android.util.AttributeSet?/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.avatar/-avatar/-avatar.html
+$dokka.location:com.tot.wizardKit.views.bottomNavigationView////PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.bottomNavigationView/index.html
+$dokka.location:com.tot.wizardKit.views.bottomNavigationView/BottomNavigationView.Companion///PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.bottomNavigationView/-bottom-navigation-view/-companion/index.html
+$dokka.location:com.tot.wizardKit.views.bottomNavigationView/BottomNavigationView.Companion/TYPE_CUSTOM_ICON/#/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.bottomNavigationView/-bottom-navigation-view/-companion/-t-y-p-e_-c-u-s-t-o-m_-i-c-o-n.html
+$dokka.location:com.tot.wizardKit.views.bottomNavigationView/BottomNavigationView.Companion/TYPE_DEFAULT/#/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.bottomNavigationView/-bottom-navigation-view/-companion/-t-y-p-e_-d-e-f-a-u-l-t.html
+$dokka.location:com.tot.wizardKit.views.bottomNavigationView/BottomNavigationView.Companion/TYPE_FLOATING_BUTTON/#/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.bottomNavigationView/-bottom-navigation-view/-companion/-t-y-p-e_-f-l-o-a-t-i-n-g_-b-u-t-t-o-n.html
+$dokka.location:com.tot.wizardKit.views.bottomNavigationView/BottomNavigationView///PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.bottomNavigationView/-bottom-navigation-view/index.html
+$dokka.location:com.tot.wizardKit.views.bottomNavigationView/BottomNavigationView/BottomNavigationView/#android.content.Context#android.util.AttributeSet?#kotlin.Int/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.bottomNavigationView/-bottom-navigation-view/-bottom-navigation-view.html
+$dokka.location:com.tot.wizardKit.views.bouncingDotLoader////PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.bouncingDotLoader/index.html
+$dokka.location:com.tot.wizardKit.views.bouncingDotLoader/BouncingDotLoader///PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.bouncingDotLoader/-bouncing-dot-loader/index.html
+$dokka.location:com.tot.wizardKit.views.bouncingDotLoader/BouncingDotLoader/BouncingDotLoader/#android.content.Context#android.util.AttributeSet?#kotlin.Int/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.bouncingDotLoader/-bouncing-dot-loader/-bouncing-dot-loader.html
+$dokka.location:com.tot.wizardKit.views.bouncingDotLoader/BouncingDotsLoader///PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.bouncingDotLoader/-bouncing-dots-loader/index.html
+$dokka.location:com.tot.wizardKit.views.bouncingDotLoader/BouncingDotsLoader/BouncingDotsLoader/#android.content.Context#android.util.AttributeSet?#kotlin.Int/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.bouncingDotLoader/-bouncing-dots-loader/-bouncing-dots-loader.html
+$dokka.location:com.tot.wizardKit.views.button////PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.button/index.html
+$dokka.location:com.tot.wizardKit.views.button/Button///PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.button/-button/index.html
+$dokka.location:com.tot.wizardKit.views.button/Button/Button/#android.content.Context#android.util.AttributeSet?/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.button/-button/-button.html
 $dokka.location:com.tot.wizardKit.views.calendarView.utils////PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.calendarView.utils/index.html
 $dokka.location:com.tot.wizardKit.views.calendarView.utils/CalendarUtils///PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.calendarView.utils/-calendar-utils/index.html
 $dokka.location:com.tot.wizardKit.views.calendarView.utils/CalendarUtils/CalendarUtils/#/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.calendarView.utils/-calendar-utils/-calendar-utils.html
@@ -70,6 +98,27 @@ $dokka.location:com.tot.wizardKit.views.calendarView/DayView/DayView/#android.co
 $dokka.location:com.tot.wizardKit.views.calendarView/DayView/bind/#java.util.Date#java.util.List<com.tot.wizardKit.views.calendarView.DayDecorator>/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.calendarView/-day-view/bind.html
 $dokka.location:com.tot.wizardKit.views.calendarView/DayView/date/#/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.calendarView/-day-view/date.html
 $dokka.location:com.tot.wizardKit.views.calendarView/DayView/decorate/#/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.calendarView/-day-view/decorate.html
+$dokka.location:com.tot.wizardKit.views.circularProgrssView////PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.circularProgrssView/index.html
+$dokka.location:com.tot.wizardKit.views.circularProgrssView/CircularProgressView///PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.circularProgrssView/-circular-progress-view/index.html
+$dokka.location:com.tot.wizardKit.views.circularProgrssView/CircularProgressView/CircularProgressView/#android.content.Context#android.util.AttributeSet?#kotlin.Int/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.circularProgrssView/-circular-progress-view/-circular-progress-view.html
+$dokka.location:com.tot.wizardKit.views.circularProgrssView/CircularProgressView/decrementProgressBy/#kotlin.Int/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.circularProgrssView/-circular-progress-view/decrement-progress-by.html
+$dokka.location:com.tot.wizardKit.views.circularProgrssView/CircularProgressView/incrementProgressBy/#kotlin.Int/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.circularProgrssView/-circular-progress-view/increment-progress-by.html
+$dokka.location:com.tot.wizardKit.views.circularProgrssView/CircularProgressView/setMaxProgress/#kotlin.Int/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.circularProgrssView/-circular-progress-view/set-max-progress.html
+$dokka.location:com.tot.wizardKit.views.circularProgrssView/CircularProgressView/setProgress/#kotlin.Int/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.circularProgrssView/-circular-progress-view/set-progress.html
+$dokka.location:com.tot.wizardKit.views.floatingActionButton////PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.floatingActionButton/index.html
+$dokka.location:com.tot.wizardKit.views.floatingActionButton/FloatingActionButton///PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.floatingActionButton/-floating-action-button/index.html
+$dokka.location:com.tot.wizardKit.views.floatingActionButton/FloatingActionButton/FloatingActionButton/#android.content.Context#android.util.AttributeSet?/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.floatingActionButton/-floating-action-button/-floating-action-button.html
+$dokka.location:com.tot.wizardKit.views.inputField////PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.inputField/index.html
+$dokka.location:com.tot.wizardKit.views.inputField/InputField///PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.inputField/-input-field/index.html
+$dokka.location:com.tot.wizardKit.views.inputField/InputField/InputField/#android.content.Context#android.util.AttributeSet?/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.inputField/-input-field/-input-field.html
+$dokka.location:com.tot.wizardKit.views.label////PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.label/index.html
+$dokka.location:com.tot.wizardKit.views.label/Label///PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.label/-label/index.html
+$dokka.location:com.tot.wizardKit.views.label/Label/Label/#android.content.Context#android.util.AttributeSet?#kotlin.Int/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.label/-label/-label.html
+$dokka.location:com.tot.wizardKit.views.label/Label/setLabelType/#kotlin.Boolean/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.label/-label/set-label-type.html
+$dokka.location:com.tot.wizardKit.views.link////PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.link/index.html
+$dokka.location:com.tot.wizardKit.views.link/Link///PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.link/-link/index.html
+$dokka.location:com.tot.wizardKit.views.link/Link/Link/#android.content.Context#android.util.AttributeSet?/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.link/-link/-link.html
+$dokka.location:com.tot.wizardKit.views.link/Link/setLinkTextWithUrl/#kotlin.String#kotlin.String/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.link/-link/set-link-text-with-url.html
 $dokka.location:com.tot.wizardKit.views.materialRatingBar.internal////PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.materialRatingBar.internal/index.html
 $dokka.location:com.tot.wizardKit.views.materialRatingBar.internal/DrawableCompat///PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.materialRatingBar.internal/-drawable-compat/index.html
 $dokka.location:com.tot.wizardKit.views.materialRatingBar.internal/DrawableCompat/DrawableCompat/#/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.materialRatingBar.internal/-drawable-compat/-drawable-compat.html
@@ -130,6 +179,31 @@ $dokka.location:com.tot.wizardKit.views.materialRatingBar/TintableDrawable///Poi
 $dokka.location:com.tot.wizardKit.views.materialRatingBar/TintableDrawable/setTint/#int/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.materialRatingBar/-tintable-drawable/set-tint.html
 $dokka.location:com.tot.wizardKit.views.materialRatingBar/TintableDrawable/setTintList/#android.content.res.ColorStateList/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.materialRatingBar/-tintable-drawable/set-tint-list.html
 $dokka.location:com.tot.wizardKit.views.materialRatingBar/TintableDrawable/setTintMode/#android.graphics.PorterDuff.Mode/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.materialRatingBar/-tintable-drawable/set-tint-mode.html
+$dokka.location:com.tot.wizardKit.views.oneToast////PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.oneToast/index.html
+$dokka.location:com.tot.wizardKit.views.oneToast/OneSnackBar.Companion///PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.oneToast/-one-snack-bar/-companion/index.html
+$dokka.location:com.tot.wizardKit.views.oneToast/OneSnackBar.Companion/LENGTH_INDEFINITE/#/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.oneToast/-one-snack-bar/-companion/-l-e-n-g-t-h_-i-n-d-e-f-i-n-i-t-e.html
+$dokka.location:com.tot.wizardKit.views.oneToast/OneSnackBar.Companion/LENGTH_LONG/#/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.oneToast/-one-snack-bar/-companion/-l-e-n-g-t-h_-l-o-n-g.html
+$dokka.location:com.tot.wizardKit.views.oneToast/OneSnackBar.Companion/LENGTH_SHORT/#/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.oneToast/-one-snack-bar/-companion/-l-e-n-g-t-h_-s-h-o-r-t.html
+$dokka.location:com.tot.wizardKit.views.oneToast/OneSnackBar.Companion/TYPE_DEFAULT/#/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.oneToast/-one-snack-bar/-companion/-t-y-p-e_-d-e-f-a-u-l-t.html
+$dokka.location:com.tot.wizardKit.views.oneToast/OneSnackBar.Companion/TYPE_ERROR/#/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.oneToast/-one-snack-bar/-companion/-t-y-p-e_-e-r-r-o-r.html
+$dokka.location:com.tot.wizardKit.views.oneToast/OneSnackBar.Companion/TYPE_INFO/#/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.oneToast/-one-snack-bar/-companion/-t-y-p-e_-i-n-f-o.html
+$dokka.location:com.tot.wizardKit.views.oneToast/OneSnackBar.Companion/TYPE_SUCCESS/#/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.oneToast/-one-snack-bar/-companion/-t-y-p-e_-s-u-c-c-e-s-s.html
+$dokka.location:com.tot.wizardKit.views.oneToast/OneSnackBar.Companion/TYPE_WARNING/#/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.oneToast/-one-snack-bar/-companion/-t-y-p-e_-w-a-r-n-i-n-g.html
+$dokka.location:com.tot.wizardKit.views.oneToast/OneSnackBar.Companion/createSnackBar/#android.view.View#kotlin.String#kotlin.Int#kotlin.Boolean#kotlin.Int#kotlin.Int?#kotlin.Int?#kotlin.Int?#kotlin.Int?#kotlin.Int?#kotlin.Int?#kotlin.Int#kotlin.Int#kotlin.Boolean#kotlin.Function0[kotlin.Unit]?/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.oneToast/-one-snack-bar/-companion/create-snack-bar.html
+$dokka.location:com.tot.wizardKit.views.oneToast/OneSnackBar///PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.oneToast/-one-snack-bar/index.html
+$dokka.location:com.tot.wizardKit.views.oneToast/OneSnackBar/OneSnackBar/#/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.oneToast/-one-snack-bar/-one-snack-bar.html
+$dokka.location:com.tot.wizardKit.views.otpView////PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.otpView/index.html
+$dokka.location:com.tot.wizardKit.views.otpView/OtpView///PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.otpView/-otp-view/index.html
+$dokka.location:com.tot.wizardKit.views.otpView/OtpView/OtpView/#android.content.Context#android.util.AttributeSet?#kotlin.Int/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.otpView/-otp-view/-otp-view.html
+$dokka.location:com.tot.wizardKit.views.otpView/OtpView/getOtp/#/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.otpView/-otp-view/get-otp.html
+$dokka.location:com.tot.wizardKit.views.pager////PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.pager/index.html
+$dokka.location:com.tot.wizardKit.views.pager/PageIndicator///PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.pager/-page-indicator/index.html
+$dokka.location:com.tot.wizardKit.views.pager/PageIndicator/PageIndicator/#android.content.Context#android.util.AttributeSet?#kotlin.Int/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.pager/-page-indicator/-page-indicator.html
+$dokka.location:com.tot.wizardKit.views.pager/PageIndicator/setSelectedDot/#kotlin.Int/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.pager/-page-indicator/set-selected-dot.html
+$dokka.location:com.tot.wizardKit.views.pager/PageIndicator/setupIndicatorDots/#kotlin.Int/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.pager/-page-indicator/setup-indicator-dots.html
+$dokka.location:com.tot.wizardKit.views.pager/Pager///PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.pager/-pager/index.html
+$dokka.location:com.tot.wizardKit.views.pager/Pager/Pager/#android.content.Context#android.util.AttributeSet?#kotlin.Int/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.pager/-pager/-pager.html
+$dokka.location:com.tot.wizardKit.views.pager/Pager/setupViewPager/#androidx.viewpager2.widget.ViewPager2#androidx.recyclerview.widget.RecyclerView.Adapter[*]#com.tot.wizardKit.views.pager.PageIndicator#kotlin.Boolean/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.pager/-pager/setup-view-pager.html
 $dokka.location:com.tot.wizardKit.views.progressTracker////PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.progressTracker/index.html
 $dokka.location:com.tot.wizardKit.views.progressTracker/ProgressTracker///PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.progressTracker/-progress-tracker/index.html
 $dokka.location:com.tot.wizardKit.views.progressTracker/ProgressTracker/ProgressTracker/#android.content.Context#android.util.AttributeSet?/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.progressTracker/-progress-tracker/-progress-tracker.html
@@ -137,6 +211,48 @@ $dokka.location:com.tot.wizardKit.views.progressTracker/ProgressTracker/setProgr
 $dokka.location:com.tot.wizardKit.views.progressTracker/ProgressTracker/setProgressList/#java.util.ArrayList[kotlin.String]/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.progressTracker/-progress-tracker/set-progress-list.html
 $dokka.location:com.tot.wizardKit.views.progressTracker/ProgressTrackerUtils///PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.progressTracker/-progress-tracker-utils/index.html
 $dokka.location:com.tot.wizardKit.views.progressTracker/ProgressTrackerUtils/createProgressTracker/#kotlin.collections.List[kotlin.String]#android.content.Context#kotlin.Int/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.progressTracker/-progress-tracker-utils/create-progress-tracker.html
+$dokka.location:com.tot.wizardKit.views.ratingDialog////PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.ratingDialog/index.html
+$dokka.location:com.tot.wizardKit.views.ratingDialog/RatingDialog///PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.ratingDialog/-rating-dialog/index.html
+$dokka.location:com.tot.wizardKit.views.ratingDialog/RatingDialog/RatingDialog/#android.content.Context/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.ratingDialog/-rating-dialog/-rating-dialog.html
+$dokka.location:com.tot.wizardKit.views.ratingDialog/RatingDialog/setAppIcon/#kotlin.Int/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.ratingDialog/-rating-dialog/set-app-icon.html
+$dokka.location:com.tot.wizardKit.views.ratingDialog/RatingDialog/setDialogType/#com.tot.wizardKit.enum.DialogType/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.ratingDialog/-rating-dialog/set-dialog-type.html
+$dokka.location:com.tot.wizardKit.views.ratingDialog/RatingDialog/setNegativeButtonText/#kotlin.String/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.ratingDialog/-rating-dialog/set-negative-button-text.html
+$dokka.location:com.tot.wizardKit.views.ratingDialog/RatingDialog/setOnCancelButtonClickListener/#kotlin.Function0[kotlin.Unit]/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.ratingDialog/-rating-dialog/set-on-cancel-button-click-listener.html
+$dokka.location:com.tot.wizardKit.views.ratingDialog/RatingDialog/setOnNegativeButtonClickListener/#kotlin.Function0[kotlin.Unit]/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.ratingDialog/-rating-dialog/set-on-negative-button-click-listener.html
+$dokka.location:com.tot.wizardKit.views.ratingDialog/RatingDialog/setOnPositiveButtonClickListener/#kotlin.Function1[kotlin.Float,kotlin.Unit]/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.ratingDialog/-rating-dialog/set-on-positive-button-click-listener.html
+$dokka.location:com.tot.wizardKit.views.ratingDialog/RatingDialog/setPositiveButtonText/#kotlin.String/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.ratingDialog/-rating-dialog/set-positive-button-text.html
+$dokka.location:com.tot.wizardKit.views.ratingDialog/RatingDialog/setSubTitleText/#kotlin.String/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.ratingDialog/-rating-dialog/set-sub-title-text.html
+$dokka.location:com.tot.wizardKit.views.ratingDialog/RatingDialog/setTitleText/#kotlin.String/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.ratingDialog/-rating-dialog/set-title-text.html
+$dokka.location:com.tot.wizardKit.views.ratingDialog/RatingDialog/show/#/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.ratingDialog/-rating-dialog/show.html
+$dokka.location:com.tot.wizardKit.views.ratingFeedbackDialog////PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.ratingFeedbackDialog/index.html
+$dokka.location:com.tot.wizardKit.views.ratingFeedbackDialog/RatingFeedbackDialog///PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.ratingFeedbackDialog/-rating-feedback-dialog/index.html
+$dokka.location:com.tot.wizardKit.views.ratingFeedbackDialog/RatingFeedbackDialog/RatingFeedbackDialog/#android.content.Context/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.ratingFeedbackDialog/-rating-feedback-dialog/-rating-feedback-dialog.html
+$dokka.location:com.tot.wizardKit.views.ratingFeedbackDialog/RatingFeedbackDialog/setAppIcon/#kotlin.Int/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.ratingFeedbackDialog/-rating-feedback-dialog/set-app-icon.html
+$dokka.location:com.tot.wizardKit.views.ratingFeedbackDialog/RatingFeedbackDialog/setDialogType/#com.tot.wizardKit.enum.DialogType/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.ratingFeedbackDialog/-rating-feedback-dialog/set-dialog-type.html
+$dokka.location:com.tot.wizardKit.views.ratingFeedbackDialog/RatingFeedbackDialog/setNegativeButtonText/#kotlin.String/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.ratingFeedbackDialog/-rating-feedback-dialog/set-negative-button-text.html
+$dokka.location:com.tot.wizardKit.views.ratingFeedbackDialog/RatingFeedbackDialog/setOnCancelButtonClickListener/#kotlin.Function0[kotlin.Unit]/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.ratingFeedbackDialog/-rating-feedback-dialog/set-on-cancel-button-click-listener.html
+$dokka.location:com.tot.wizardKit.views.ratingFeedbackDialog/RatingFeedbackDialog/setOnNegativeButtonClickListener/#kotlin.Function0[kotlin.Unit]/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.ratingFeedbackDialog/-rating-feedback-dialog/set-on-negative-button-click-listener.html
+$dokka.location:com.tot.wizardKit.views.ratingFeedbackDialog/RatingFeedbackDialog/setOnPositiveButtonClickListener/#kotlin.Function1[kotlin.String,kotlin.Unit]/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.ratingFeedbackDialog/-rating-feedback-dialog/set-on-positive-button-click-listener.html
+$dokka.location:com.tot.wizardKit.views.ratingFeedbackDialog/RatingFeedbackDialog/setPositiveButtonText/#kotlin.String/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.ratingFeedbackDialog/-rating-feedback-dialog/set-positive-button-text.html
+$dokka.location:com.tot.wizardKit.views.ratingFeedbackDialog/RatingFeedbackDialog/setSubTitleText/#kotlin.String/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.ratingFeedbackDialog/-rating-feedback-dialog/set-sub-title-text.html
+$dokka.location:com.tot.wizardKit.views.ratingFeedbackDialog/RatingFeedbackDialog/setTitleText/#kotlin.String/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.ratingFeedbackDialog/-rating-feedback-dialog/set-title-text.html
+$dokka.location:com.tot.wizardKit.views.ratingFeedbackDialog/RatingFeedbackDialog/show/#/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.ratingFeedbackDialog/-rating-feedback-dialog/show.html
+$dokka.location:com.tot.wizardKit.views.searchInput////PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.searchInput/index.html
+$dokka.location:com.tot.wizardKit.views.searchInput/SearchInput///PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.searchInput/-search-input/index.html
+$dokka.location:com.tot.wizardKit.views.searchInput/SearchInput/SearchInput/#android.content.Context#android.util.AttributeSet?#kotlin.Int/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.searchInput/-search-input/-search-input.html
+$dokka.location:com.tot.wizardKit.views.slider////PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.slider/index.html
+$dokka.location:com.tot.wizardKit.views.slider/Slider///PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.slider/-slider/index.html
+$dokka.location:com.tot.wizardKit.views.slider/Slider/Slider/#android.content.Context#android.util.AttributeSet?#kotlin.Int/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.slider/-slider/-slider.html
+$dokka.location:com.tot.wizardKit.views.switchView////PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.switchView/index.html
+$dokka.location:com.tot.wizardKit.views.switchView/Switch///PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.switchView/-switch/index.html
+$dokka.location:com.tot.wizardKit.views.switchView/Switch/Switch/#android.content.Context#android.util.AttributeSet?/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.switchView/-switch/-switch.html
+$dokka.location:com.tot.wizardKit.views.switchView/Switch/setOnCheckedChangeListener/#android.widget.CompoundButton.OnCheckedChangeListener?/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.switchView/-switch/set-on-checked-change-listener.html
+$dokka.location:com.tot.wizardKit.views.textInputLayout////PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.textInputLayout/index.html
+$dokka.location:com.tot.wizardKit.views.textInputLayout/TextInputLayout///PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.textInputLayout/-text-input-layout/index.html
+$dokka.location:com.tot.wizardKit.views.textInputLayout/TextInputLayout/TextInputLayout/#android.content.Context#android.util.AttributeSet?/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.textInputLayout/-text-input-layout/-text-input-layout.html
+$dokka.location:com.tot.wizardKit.views.textView////PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.textView/index.html
+$dokka.location:com.tot.wizardKit.views.textView/TextView///PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.textView/-text-view/index.html
+$dokka.location:com.tot.wizardKit.views.textView/TextView/TextView/#android.content.Context#android.util.AttributeSet?/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.textView/-text-view/-text-view.html
 $dokka.location:com.tot.wizardKit.views.tipCard////PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.tipCard/index.html
 $dokka.location:com.tot.wizardKit.views.tipCard/TipCard///PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.tipCard/-tip-card/index.html
 $dokka.location:com.tot.wizardKit.views.tipCard/TipCard/TipCard/#android.content.Context#android.util.AttributeSet?/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.tipCard/-tip-card/-tip-card.html
@@ -152,114 +268,44 @@ $dokka.location:com.tot.wizardKit.views.tipCard/TipCardAdapter/TipCardAdapter/#j
 $dokka.location:com.tot.wizardKit.views.tipCard/TipCardAdapter/getItemCount/#/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.tipCard/-tip-card-adapter/get-item-count.html
 $dokka.location:com.tot.wizardKit.views.tipCard/TipCardAdapter/onBindViewHolder/#com.tot.wizardKit.views.tipCard.TipCardAdapter.ViewHolder#kotlin.Int/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.tipCard/-tip-card-adapter/on-bind-view-holder.html
 $dokka.location:com.tot.wizardKit.views.tipCard/TipCardAdapter/onCreateViewHolder/#android.view.ViewGroup#kotlin.Int/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.tipCard/-tip-card-adapter/on-create-view-holder.html
-$dokka.location:com.tot.wizardKit.views////PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/index.html
-$dokka.location:com.tot.wizardKit.views/AccordionView///PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-accordion-view/index.html
-$dokka.location:com.tot.wizardKit.views/AccordionView/AccordionView/#android.content.Context#android.util.AttributeSet?#kotlin.Int/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-accordion-view/-accordion-view.html
-$dokka.location:com.tot.wizardKit.views/AccordionView/applySettings/#kotlin.collections.List[com.tot.wizardKit.model.Section]#kotlin.Int?#kotlin.Int?#kotlin.Boolean?#kotlin.Boolean?#kotlin.Int?#kotlin.Boolean?#kotlin.Int?#kotlin.Int?#kotlin.Int?#kotlin.Int?#kotlin.Int?#kotlin.Int?#kotlin.Int?#kotlin.Int?#kotlin.Int?#kotlin.Int?#kotlin.Int?#kotlin.Int?#kotlin.Int?#kotlin.Int?#kotlin.Int?#kotlin.Int?#kotlin.Int?/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-accordion-view/apply-settings.html
-$dokka.location:com.tot.wizardKit.views/Avatar///PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-avatar/index.html
-$dokka.location:com.tot.wizardKit.views/Avatar/Avatar/#android.content.Context#android.util.AttributeSet?/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-avatar/-avatar.html
-$dokka.location:com.tot.wizardKit.views/BottomNavigationView.Companion///PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-bottom-navigation-view/-companion/index.html
-$dokka.location:com.tot.wizardKit.views/BottomNavigationView.Companion/TYPE_CUSTOM_ICON/#/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-bottom-navigation-view/-companion/-t-y-p-e_-c-u-s-t-o-m_-i-c-o-n.html
-$dokka.location:com.tot.wizardKit.views/BottomNavigationView.Companion/TYPE_DEFAULT/#/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-bottom-navigation-view/-companion/-t-y-p-e_-d-e-f-a-u-l-t.html
-$dokka.location:com.tot.wizardKit.views/BottomNavigationView.Companion/TYPE_FLOATING_BUTTON/#/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-bottom-navigation-view/-companion/-t-y-p-e_-f-l-o-a-t-i-n-g_-b-u-t-t-o-n.html
-$dokka.location:com.tot.wizardKit.views/BottomNavigationView///PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-bottom-navigation-view/index.html
-$dokka.location:com.tot.wizardKit.views/BottomNavigationView/BottomNavigationView/#android.content.Context#android.util.AttributeSet?#kotlin.Int/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-bottom-navigation-view/-bottom-navigation-view.html
-$dokka.location:com.tot.wizardKit.views/BouncingDotLoader///PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-bouncing-dot-loader/index.html
-$dokka.location:com.tot.wizardKit.views/BouncingDotLoader/BouncingDotLoader/#android.content.Context#android.util.AttributeSet?#kotlin.Int/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-bouncing-dot-loader/-bouncing-dot-loader.html
-$dokka.location:com.tot.wizardKit.views/BouncingDotsLoader///PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-bouncing-dots-loader/index.html
-$dokka.location:com.tot.wizardKit.views/BouncingDotsLoader/BouncingDotsLoader/#android.content.Context#android.util.AttributeSet?#kotlin.Int/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-bouncing-dots-loader/-bouncing-dots-loader.html
-$dokka.location:com.tot.wizardKit.views/Button///PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-button/index.html
-$dokka.location:com.tot.wizardKit.views/Button/Button/#android.content.Context#android.util.AttributeSet?/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-button/-button.html
-$dokka.location:com.tot.wizardKit.views/CircularProgressView///PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-circular-progress-view/index.html
-$dokka.location:com.tot.wizardKit.views/CircularProgressView/CircularProgressView/#android.content.Context#android.util.AttributeSet?#kotlin.Int/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-circular-progress-view/-circular-progress-view.html
-$dokka.location:com.tot.wizardKit.views/CircularProgressView/decrementProgressBy/#kotlin.Int/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-circular-progress-view/decrement-progress-by.html
-$dokka.location:com.tot.wizardKit.views/CircularProgressView/incrementProgressBy/#kotlin.Int/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-circular-progress-view/increment-progress-by.html
-$dokka.location:com.tot.wizardKit.views/CircularProgressView/setMaxProgress/#kotlin.Int/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-circular-progress-view/set-max-progress.html
-$dokka.location:com.tot.wizardKit.views/CircularProgressView/setProgress/#kotlin.Int/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-circular-progress-view/set-progress.html
-$dokka.location:com.tot.wizardKit.views/DialogType.ALERT_DIALOG///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}wizard-kit/com.tot.wizardKit.views/-dialog-type/-a-l-e-r-t_-d-i-a-l-o-g/index.html
-$dokka.location:com.tot.wizardKit.views/DialogType.BOTTOM_SHEET///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}wizard-kit/com.tot.wizardKit.views/-dialog-type/-b-o-t-t-o-m_-s-h-e-e-t/index.html
-$dokka.location:com.tot.wizardKit.views/DialogType///PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-dialog-type/index.html
-$dokka.location:com.tot.wizardKit.views/DialogType/entries/#/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-dialog-type/entries.html
-$dokka.location:com.tot.wizardKit.views/DialogType/valueOf/#kotlin.String/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-dialog-type/value-of.html
-$dokka.location:com.tot.wizardKit.views/DialogType/values/#/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-dialog-type/values.html
-$dokka.location:com.tot.wizardKit.views/FloatingActionButton///PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-floating-action-button/index.html
-$dokka.location:com.tot.wizardKit.views/FloatingActionButton/FloatingActionButton/#android.content.Context#android.util.AttributeSet?/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-floating-action-button/-floating-action-button.html
-$dokka.location:com.tot.wizardKit.views/InputField///PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-input-field/index.html
-$dokka.location:com.tot.wizardKit.views/InputField/InputField/#android.content.Context#android.util.AttributeSet?/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-input-field/-input-field.html
-$dokka.location:com.tot.wizardKit.views/Label///PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-label/index.html
-$dokka.location:com.tot.wizardKit.views/Label/Label/#android.content.Context#android.util.AttributeSet?#kotlin.Int/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-label/-label.html
-$dokka.location:com.tot.wizardKit.views/Label/setLabelType/#kotlin.Boolean/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-label/set-label-type.html
-$dokka.location:com.tot.wizardKit.views/Link///PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-link/index.html
-$dokka.location:com.tot.wizardKit.views/Link/Link/#android.content.Context#android.util.AttributeSet?/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-link/-link.html
-$dokka.location:com.tot.wizardKit.views/Link/setLinkTextWithUrl/#kotlin.String#kotlin.String/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-link/set-link-text-with-url.html
-$dokka.location:com.tot.wizardKit.views/OneSnackBar.Companion///PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-one-snack-bar/-companion/index.html
-$dokka.location:com.tot.wizardKit.views/OneSnackBar.Companion/LENGTH_INDEFINITE/#/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-one-snack-bar/-companion/-l-e-n-g-t-h_-i-n-d-e-f-i-n-i-t-e.html
-$dokka.location:com.tot.wizardKit.views/OneSnackBar.Companion/LENGTH_LONG/#/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-one-snack-bar/-companion/-l-e-n-g-t-h_-l-o-n-g.html
-$dokka.location:com.tot.wizardKit.views/OneSnackBar.Companion/LENGTH_SHORT/#/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-one-snack-bar/-companion/-l-e-n-g-t-h_-s-h-o-r-t.html
-$dokka.location:com.tot.wizardKit.views/OneSnackBar.Companion/TYPE_DEFAULT/#/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-one-snack-bar/-companion/-t-y-p-e_-d-e-f-a-u-l-t.html
-$dokka.location:com.tot.wizardKit.views/OneSnackBar.Companion/TYPE_ERROR/#/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-one-snack-bar/-companion/-t-y-p-e_-e-r-r-o-r.html
-$dokka.location:com.tot.wizardKit.views/OneSnackBar.Companion/TYPE_INFO/#/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-one-snack-bar/-companion/-t-y-p-e_-i-n-f-o.html
-$dokka.location:com.tot.wizardKit.views/OneSnackBar.Companion/TYPE_SUCCESS/#/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-one-snack-bar/-companion/-t-y-p-e_-s-u-c-c-e-s-s.html
-$dokka.location:com.tot.wizardKit.views/OneSnackBar.Companion/TYPE_WARNING/#/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-one-snack-bar/-companion/-t-y-p-e_-w-a-r-n-i-n-g.html
-$dokka.location:com.tot.wizardKit.views/OneSnackBar.Companion/createSnackBar/#android.view.View#kotlin.String#kotlin.Int#kotlin.Boolean#kotlin.Int#kotlin.Int?#kotlin.Int?#kotlin.Int?#kotlin.Int?#kotlin.Int?#kotlin.Int?#kotlin.Int#kotlin.Int#kotlin.Boolean#kotlin.Function0[kotlin.Unit]?/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-one-snack-bar/-companion/create-snack-bar.html
-$dokka.location:com.tot.wizardKit.views/OneSnackBar///PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-one-snack-bar/index.html
-$dokka.location:com.tot.wizardKit.views/OneSnackBar/OneSnackBar/#/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-one-snack-bar/-one-snack-bar.html
-$dokka.location:com.tot.wizardKit.views/OtpView///PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-otp-view/index.html
-$dokka.location:com.tot.wizardKit.views/OtpView/OtpView/#android.content.Context#android.util.AttributeSet?#kotlin.Int/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-otp-view/-otp-view.html
-$dokka.location:com.tot.wizardKit.views/OtpView/getOtp/#/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-otp-view/get-otp.html
-$dokka.location:com.tot.wizardKit.views/PageIndicator///PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-page-indicator/index.html
-$dokka.location:com.tot.wizardKit.views/PageIndicator/PageIndicator/#android.content.Context#android.util.AttributeSet?#kotlin.Int/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-page-indicator/-page-indicator.html
-$dokka.location:com.tot.wizardKit.views/PageIndicator/setSelectedDot/#kotlin.Int/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-page-indicator/set-selected-dot.html
-$dokka.location:com.tot.wizardKit.views/PageIndicator/setupIndicatorDots/#kotlin.Int/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-page-indicator/setup-indicator-dots.html
-$dokka.location:com.tot.wizardKit.views/Pager///PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-pager/index.html
-$dokka.location:com.tot.wizardKit.views/Pager/Pager/#android.content.Context#android.util.AttributeSet?#kotlin.Int/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-pager/-pager.html
-$dokka.location:com.tot.wizardKit.views/Pager/setupViewPager/#androidx.viewpager2.widget.ViewPager2#androidx.recyclerview.widget.RecyclerView.Adapter[*]#com.tot.wizardKit.views.PageIndicator#kotlin.Boolean/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-pager/setup-view-pager.html
-$dokka.location:com.tot.wizardKit.views/RatingDialog///PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-rating-dialog/index.html
-$dokka.location:com.tot.wizardKit.views/RatingDialog/RatingDialog/#android.content.Context/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-rating-dialog/-rating-dialog.html
-$dokka.location:com.tot.wizardKit.views/RatingDialog/setAppIcon/#kotlin.Int/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-rating-dialog/set-app-icon.html
-$dokka.location:com.tot.wizardKit.views/RatingDialog/setDialogType/#com.tot.wizardKit.enum.DialogType/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-rating-dialog/set-dialog-type.html
-$dokka.location:com.tot.wizardKit.views/RatingDialog/setNegativeButtonText/#kotlin.String/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-rating-dialog/set-negative-button-text.html
-$dokka.location:com.tot.wizardKit.views/RatingDialog/setOnCancelButtonClickListener/#kotlin.Function0[kotlin.Unit]/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-rating-dialog/set-on-cancel-button-click-listener.html
-$dokka.location:com.tot.wizardKit.views/RatingDialog/setOnNegativeButtonClickListener/#kotlin.Function0[kotlin.Unit]/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-rating-dialog/set-on-negative-button-click-listener.html
-$dokka.location:com.tot.wizardKit.views/RatingDialog/setOnPositiveButtonClickListener/#kotlin.Function1[kotlin.Float,kotlin.Unit]/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-rating-dialog/set-on-positive-button-click-listener.html
-$dokka.location:com.tot.wizardKit.views/RatingDialog/setPositiveButtonText/#kotlin.String/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-rating-dialog/set-positive-button-text.html
-$dokka.location:com.tot.wizardKit.views/RatingDialog/setSubTitleText/#kotlin.String/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-rating-dialog/set-sub-title-text.html
-$dokka.location:com.tot.wizardKit.views/RatingDialog/setTitleText/#kotlin.String/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-rating-dialog/set-title-text.html
-$dokka.location:com.tot.wizardKit.views/RatingDialog/show/#/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-rating-dialog/show.html
-$dokka.location:com.tot.wizardKit.views/RatingFeedbackDialog///PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-rating-feedback-dialog/index.html
-$dokka.location:com.tot.wizardKit.views/RatingFeedbackDialog/RatingFeedbackDialog/#android.content.Context/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-rating-feedback-dialog/-rating-feedback-dialog.html
-$dokka.location:com.tot.wizardKit.views/RatingFeedbackDialog/setAppIcon/#kotlin.Int/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-rating-feedback-dialog/set-app-icon.html
-$dokka.location:com.tot.wizardKit.views/RatingFeedbackDialog/setDialogType/#com.tot.wizardKit.enum.DialogType/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-rating-feedback-dialog/set-dialog-type.html
-$dokka.location:com.tot.wizardKit.views/RatingFeedbackDialog/setNegativeButtonText/#kotlin.String/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-rating-feedback-dialog/set-negative-button-text.html
-$dokka.location:com.tot.wizardKit.views/RatingFeedbackDialog/setOnCancelButtonClickListener/#kotlin.Function0[kotlin.Unit]/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-rating-feedback-dialog/set-on-cancel-button-click-listener.html
-$dokka.location:com.tot.wizardKit.views/RatingFeedbackDialog/setOnNegativeButtonClickListener/#kotlin.Function0[kotlin.Unit]/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-rating-feedback-dialog/set-on-negative-button-click-listener.html
-$dokka.location:com.tot.wizardKit.views/RatingFeedbackDialog/setOnPositiveButtonClickListener/#kotlin.Function1[kotlin.String,kotlin.Unit]/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-rating-feedback-dialog/set-on-positive-button-click-listener.html
-$dokka.location:com.tot.wizardKit.views/RatingFeedbackDialog/setPositiveButtonText/#kotlin.String/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-rating-feedback-dialog/set-positive-button-text.html
-$dokka.location:com.tot.wizardKit.views/RatingFeedbackDialog/setSubTitleText/#kotlin.String/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-rating-feedback-dialog/set-sub-title-text.html
-$dokka.location:com.tot.wizardKit.views/RatingFeedbackDialog/setTitleText/#kotlin.String/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-rating-feedback-dialog/set-title-text.html
-$dokka.location:com.tot.wizardKit.views/RatingFeedbackDialog/show/#/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-rating-feedback-dialog/show.html
-$dokka.location:com.tot.wizardKit.views/SearchInput///PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-search-input/index.html
-$dokka.location:com.tot.wizardKit.views/SearchInput/SearchInput/#android.content.Context#android.util.AttributeSet?#kotlin.Int/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-search-input/-search-input.html
-$dokka.location:com.tot.wizardKit.views/Slider///PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-slider/index.html
-$dokka.location:com.tot.wizardKit.views/Slider/Slider/#android.content.Context#android.util.AttributeSet?#kotlin.Int/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-slider/-slider.html
-$dokka.location:com.tot.wizardKit.views/Switch///PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-switch/index.html
-$dokka.location:com.tot.wizardKit.views/Switch/Switch/#android.content.Context#android.util.AttributeSet?/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-switch/-switch.html
-$dokka.location:com.tot.wizardKit.views/Switch/setOnCheckedChangeListener/#android.widget.CompoundButton.OnCheckedChangeListener?/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-switch/set-on-checked-change-listener.html
-$dokka.location:com.tot.wizardKit.views/TextInputLayout///PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-text-input-layout/index.html
-$dokka.location:com.tot.wizardKit.views/TextInputLayout/TextInputLayout/#android.content.Context#android.util.AttributeSet?/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-text-input-layout/-text-input-layout.html
-$dokka.location:com.tot.wizardKit.views/TextView///PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-text-view/index.html
-$dokka.location:com.tot.wizardKit.views/TextView/TextView/#android.content.Context#android.util.AttributeSet?/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-text-view/-text-view.html
-$dokka.location:com.tot.wizardKit.views/YesNoSwitch///PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-yes-no-switch/index.html
-$dokka.location:com.tot.wizardKit.views/YesNoSwitch/YesNoSwitch/#android.content.Context#android.util.AttributeSet?#kotlin.Int/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-yes-no-switch/-yes-no-switch.html
-$dokka.location:com.tot.wizardKit.views/YesNoSwitch/setOnSelectionChangeListener/#kotlin.Function1[kotlin.Boolean,kotlin.Unit]/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views/-yes-no-switch/set-on-selection-change-listener.html
+$dokka.location:com.tot.wizardKit.views.yesNoSwitch////PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.yesNoSwitch/index.html
+$dokka.location:com.tot.wizardKit.views.yesNoSwitch/YesNoSwitch///PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.yesNoSwitch/-yes-no-switch/index.html
+$dokka.location:com.tot.wizardKit.views.yesNoSwitch/YesNoSwitch/YesNoSwitch/#android.content.Context#android.util.AttributeSet?#kotlin.Int/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.yesNoSwitch/-yes-no-switch/-yes-no-switch.html
+$dokka.location:com.tot.wizardKit.views.yesNoSwitch/YesNoSwitch/setOnSelectionChangeListener/#kotlin.Function1[kotlin.Boolean,kotlin.Unit]/PointingToDeclaration/wizard-kit/com.tot.wizardKit.views.yesNoSwitch/-yes-no-switch/set-on-selection-change-listener.html
+$dokka.location:com.tot.wizardKit////PointingToDeclaration/wizard-kit/com.tot.wizardKit/index.html
+$dokka.location:com.tot.wizardKit/WizardKitApplication///PointingToDeclaration/wizard-kit/com.tot.wizardKit/-wizard-kit-application/index.html
+$dokka.location:com.tot.wizardKit/WizardKitApplication/WizardKitApplication/#/PointingToDeclaration/wizard-kit/com.tot.wizardKit/-wizard-kit-application/-wizard-kit-application.html
+$dokka.location:com.tot.wizardKit/WizardKitApplication/onCreate/#/PointingToDeclaration/wizard-kit/com.tot.wizardKit/-wizard-kit-application/on-create.html
+com.tot.wizardKit
+com.tot.wizardKit.api
 com.tot.wizardKit.enum
 com.tot.wizardKit.model
 com.tot.wizardKit.utils
-com.tot.wizardKit.views
+com.tot.wizardKit.views.accordianView
+com.tot.wizardKit.views.avatar
+com.tot.wizardKit.views.bottomNavigationView
+com.tot.wizardKit.views.bouncingDotLoader
+com.tot.wizardKit.views.button
 com.tot.wizardKit.views.calendarView
 com.tot.wizardKit.views.calendarView.utils
+com.tot.wizardKit.views.circularProgrssView
+com.tot.wizardKit.views.floatingActionButton
+com.tot.wizardKit.views.inputField
+com.tot.wizardKit.views.label
+com.tot.wizardKit.views.link
 com.tot.wizardKit.views.materialRatingBar
 com.tot.wizardKit.views.materialRatingBar.internal
+com.tot.wizardKit.views.oneToast
+com.tot.wizardKit.views.otpView
+com.tot.wizardKit.views.pager
 com.tot.wizardKit.views.progressTracker
+com.tot.wizardKit.views.ratingDialog
+com.tot.wizardKit.views.ratingFeedbackDialog
+com.tot.wizardKit.views.searchInput
+com.tot.wizardKit.views.slider
+com.tot.wizardKit.views.switchView
+com.tot.wizardKit.views.textInputLayout
+com.tot.wizardKit.views.textView
 com.tot.wizardKit.views.tipCard
+com.tot.wizardKit.views.yesNoSwitch
 
