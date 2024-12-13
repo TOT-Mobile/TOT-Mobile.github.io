@@ -1,0 +1,80 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:com.tot.wizardKitUi.adapter////PointingToDeclaration/app/com.tot.wizardKitUi.adapter/index.html
+$dokka.location:com.tot.wizardKitUi.adapter/MyViewPagerAdapter.ViewHolder///PointingToDeclaration/app/com.tot.wizardKitUi.adapter/-my-view-pager-adapter/-view-holder/index.html
+$dokka.location:com.tot.wizardKitUi.adapter/MyViewPagerAdapter.ViewHolder/ViewHolder/#android.view.View/PointingToDeclaration/app/com.tot.wizardKitUi.adapter/-my-view-pager-adapter/-view-holder/-view-holder.html
+$dokka.location:com.tot.wizardKitUi.adapter/MyViewPagerAdapter///PointingToDeclaration/app/com.tot.wizardKitUi.adapter/-my-view-pager-adapter/index.html
+$dokka.location:com.tot.wizardKitUi.adapter/MyViewPagerAdapter/MyViewPagerAdapter/#/PointingToDeclaration/app/com.tot.wizardKitUi.adapter/-my-view-pager-adapter/-my-view-pager-adapter.html
+$dokka.location:com.tot.wizardKitUi.adapter/MyViewPagerAdapter/getItemCount/#/PointingToDeclaration/app/com.tot.wizardKitUi.adapter/-my-view-pager-adapter/get-item-count.html
+$dokka.location:com.tot.wizardKitUi.adapter/MyViewPagerAdapter/onBindViewHolder/#com.tot.wizardKitUi.adapter.MyViewPagerAdapter.ViewHolder#kotlin.Int/PointingToDeclaration/app/com.tot.wizardKitUi.adapter/-my-view-pager-adapter/on-bind-view-holder.html
+$dokka.location:com.tot.wizardKitUi.adapter/MyViewPagerAdapter/onCreateViewHolder/#android.view.ViewGroup#kotlin.Int/PointingToDeclaration/app/com.tot.wizardKitUi.adapter/-my-view-pager-adapter/on-create-view-holder.html
+$dokka.location:com.tot.wizardKitUi.ui////PointingToDeclaration/app/com.tot.wizardKitUi.ui/index.html
+$dokka.location:com.tot.wizardKitUi.ui/AccordionViewActivity///PointingToDeclaration/app/com.tot.wizardKitUi.ui/-accordion-view-activity/index.html
+$dokka.location:com.tot.wizardKitUi.ui/AccordionViewActivity/AccordionViewActivity/#/PointingToDeclaration/app/com.tot.wizardKitUi.ui/-accordion-view-activity/-accordion-view-activity.html
+$dokka.location:com.tot.wizardKitUi.ui/AccordionViewActivity/binding/#/PointingToDeclaration/app/com.tot.wizardKitUi.ui/-accordion-view-activity/binding.html
+$dokka.location:com.tot.wizardKitUi.ui/AvatarActivity///PointingToDeclaration/app/com.tot.wizardKitUi.ui/-avatar-activity/index.html
+$dokka.location:com.tot.wizardKitUi.ui/AvatarActivity/AvatarActivity/#/PointingToDeclaration/app/com.tot.wizardKitUi.ui/-avatar-activity/-avatar-activity.html
+$dokka.location:com.tot.wizardKitUi.ui/BottomNavigationActivity///PointingToDeclaration/app/com.tot.wizardKitUi.ui/-bottom-navigation-activity/index.html
+$dokka.location:com.tot.wizardKitUi.ui/BottomNavigationActivity/BottomNavigationActivity/#/PointingToDeclaration/app/com.tot.wizardKitUi.ui/-bottom-navigation-activity/-bottom-navigation-activity.html
+$dokka.location:com.tot.wizardKitUi.ui/BouncingLoaderActivity///PointingToDeclaration/app/com.tot.wizardKitUi.ui/-bouncing-loader-activity/index.html
+$dokka.location:com.tot.wizardKitUi.ui/BouncingLoaderActivity/BouncingLoaderActivity/#/PointingToDeclaration/app/com.tot.wizardKitUi.ui/-bouncing-loader-activity/-bouncing-loader-activity.html
+$dokka.location:com.tot.wizardKitUi.ui/ButtonsActivity///PointingToDeclaration/app/com.tot.wizardKitUi.ui/-buttons-activity/index.html
+$dokka.location:com.tot.wizardKitUi.ui/ButtonsActivity/ButtonsActivity/#/PointingToDeclaration/app/com.tot.wizardKitUi.ui/-buttons-activity/-buttons-activity.html
+$dokka.location:com.tot.wizardKitUi.ui/CalendarActivity///PointingToDeclaration/app/com.tot.wizardKitUi.ui/-calendar-activity/index.html
+$dokka.location:com.tot.wizardKitUi.ui/CalendarActivity/CalendarActivity/#/PointingToDeclaration/app/com.tot.wizardKitUi.ui/-calendar-activity/-calendar-activity.html
+$dokka.location:com.tot.wizardKitUi.ui/CalendarActivity/onDoneClicked/#java.util.Date?/PointingToDeclaration/app/com.tot.wizardKitUi.ui/-calendar-activity/on-done-clicked.html
+$dokka.location:com.tot.wizardKitUi.ui/CircularProgressActivity///PointingToDeclaration/app/com.tot.wizardKitUi.ui/-circular-progress-activity/index.html
+$dokka.location:com.tot.wizardKitUi.ui/CircularProgressActivity/CircularProgressActivity/#/PointingToDeclaration/app/com.tot.wizardKitUi.ui/-circular-progress-activity/-circular-progress-activity.html
+$dokka.location:com.tot.wizardKitUi.ui/FABActivity///PointingToDeclaration/app/com.tot.wizardKitUi.ui/-f-a-b-activity/index.html
+$dokka.location:com.tot.wizardKitUi.ui/FABActivity/FABActivity/#/PointingToDeclaration/app/com.tot.wizardKitUi.ui/-f-a-b-activity/-f-a-b-activity.html
+$dokka.location:com.tot.wizardKitUi.ui/HelloActivity///PointingToDeclaration/app/com.tot.wizardKitUi.ui/-hello-activity/index.html
+$dokka.location:com.tot.wizardKitUi.ui/HelloActivity/HelloActivity/#/PointingToDeclaration/app/com.tot.wizardKitUi.ui/-hello-activity/-hello-activity.html
+$dokka.location:com.tot.wizardKitUi.ui/InputFieldActivity///PointingToDeclaration/app/com.tot.wizardKitUi.ui/-input-field-activity/index.html
+$dokka.location:com.tot.wizardKitUi.ui/InputFieldActivity/InputFieldActivity/#/PointingToDeclaration/app/com.tot.wizardKitUi.ui/-input-field-activity/-input-field-activity.html
+$dokka.location:com.tot.wizardKitUi.ui/LabelActivity///PointingToDeclaration/app/com.tot.wizardKitUi.ui/-label-activity/index.html
+$dokka.location:com.tot.wizardKitUi.ui/LabelActivity/LabelActivity/#/PointingToDeclaration/app/com.tot.wizardKitUi.ui/-label-activity/-label-activity.html
+$dokka.location:com.tot.wizardKitUi.ui/LinksActivity///PointingToDeclaration/app/com.tot.wizardKitUi.ui/-links-activity/index.html
+$dokka.location:com.tot.wizardKitUi.ui/LinksActivity/LinksActivity/#/PointingToDeclaration/app/com.tot.wizardKitUi.ui/-links-activity/-links-activity.html
+$dokka.location:com.tot.wizardKitUi.ui/MainActivity///PointingToDeclaration/app/com.tot.wizardKitUi.ui/-main-activity/index.html
+$dokka.location:com.tot.wizardKitUi.ui/MainActivity/MainActivity/#/PointingToDeclaration/app/com.tot.wizardKitUi.ui/-main-activity/-main-activity.html
+$dokka.location:com.tot.wizardKitUi.ui/OtpActivity///PointingToDeclaration/app/com.tot.wizardKitUi.ui/-otp-activity/index.html
+$dokka.location:com.tot.wizardKitUi.ui/OtpActivity/OtpActivity/#/PointingToDeclaration/app/com.tot.wizardKitUi.ui/-otp-activity/-otp-activity.html
+$dokka.location:com.tot.wizardKitUi.ui/PagerActivity///PointingToDeclaration/app/com.tot.wizardKitUi.ui/-pager-activity/index.html
+$dokka.location:com.tot.wizardKitUi.ui/PagerActivity/PagerActivity/#/PointingToDeclaration/app/com.tot.wizardKitUi.ui/-pager-activity/-pager-activity.html
+$dokka.location:com.tot.wizardKitUi.ui/ProgressTrackerActivity///PointingToDeclaration/app/com.tot.wizardKitUi.ui/-progress-tracker-activity/index.html
+$dokka.location:com.tot.wizardKitUi.ui/ProgressTrackerActivity/ProgressTrackerActivity/#/PointingToDeclaration/app/com.tot.wizardKitUi.ui/-progress-tracker-activity/-progress-tracker-activity.html
+$dokka.location:com.tot.wizardKitUi.ui/RatingBarActivity///PointingToDeclaration/app/com.tot.wizardKitUi.ui/-rating-bar-activity/index.html
+$dokka.location:com.tot.wizardKitUi.ui/RatingBarActivity/RatingBarActivity/#/PointingToDeclaration/app/com.tot.wizardKitUi.ui/-rating-bar-activity/-rating-bar-activity.html
+$dokka.location:com.tot.wizardKitUi.ui/RatingPopupActivity///PointingToDeclaration/app/com.tot.wizardKitUi.ui/-rating-popup-activity/index.html
+$dokka.location:com.tot.wizardKitUi.ui/RatingPopupActivity/RatingPopupActivity/#/PointingToDeclaration/app/com.tot.wizardKitUi.ui/-rating-popup-activity/-rating-popup-activity.html
+$dokka.location:com.tot.wizardKitUi.ui/RatingPopupActivity/ratingDialog/#/PointingToDeclaration/app/com.tot.wizardKitUi.ui/-rating-popup-activity/rating-dialog.html
+$dokka.location:com.tot.wizardKitUi.ui/RatingPopupActivity/ratingFeedbackDialog/#/PointingToDeclaration/app/com.tot.wizardKitUi.ui/-rating-popup-activity/rating-feedback-dialog.html
+$dokka.location:com.tot.wizardKitUi.ui/SearchInputActivity///PointingToDeclaration/app/com.tot.wizardKitUi.ui/-search-input-activity/index.html
+$dokka.location:com.tot.wizardKitUi.ui/SearchInputActivity/SearchInputActivity/#/PointingToDeclaration/app/com.tot.wizardKitUi.ui/-search-input-activity/-search-input-activity.html
+$dokka.location:com.tot.wizardKitUi.ui/SignUpActivity///PointingToDeclaration/app/com.tot.wizardKitUi.ui/-sign-up-activity/index.html
+$dokka.location:com.tot.wizardKitUi.ui/SignUpActivity/SignUpActivity/#/PointingToDeclaration/app/com.tot.wizardKitUi.ui/-sign-up-activity/-sign-up-activity.html
+$dokka.location:com.tot.wizardKitUi.ui/SliderActivity///PointingToDeclaration/app/com.tot.wizardKitUi.ui/-slider-activity/index.html
+$dokka.location:com.tot.wizardKitUi.ui/SliderActivity/SliderActivity/#/PointingToDeclaration/app/com.tot.wizardKitUi.ui/-slider-activity/-slider-activity.html
+$dokka.location:com.tot.wizardKitUi.ui/TipCardActivity///PointingToDeclaration/app/com.tot.wizardKitUi.ui/-tip-card-activity/index.html
+$dokka.location:com.tot.wizardKitUi.ui/TipCardActivity/TipCardActivity/#/PointingToDeclaration/app/com.tot.wizardKitUi.ui/-tip-card-activity/-tip-card-activity.html
+$dokka.location:com.tot.wizardKitUi.ui/ToastActivity///PointingToDeclaration/app/com.tot.wizardKitUi.ui/-toast-activity/index.html
+$dokka.location:com.tot.wizardKitUi.ui/ToastActivity/ToastActivity/#/PointingToDeclaration/app/com.tot.wizardKitUi.ui/-toast-activity/-toast-activity.html
+$dokka.location:com.tot.wizardKitUi.ui/ToastActivity/binding/#/PointingToDeclaration/app/com.tot.wizardKitUi.ui/-toast-activity/binding.html
+$dokka.location:com.tot.wizardKitUi.ui/ToggleActivity///PointingToDeclaration/app/com.tot.wizardKitUi.ui/-toggle-activity/index.html
+$dokka.location:com.tot.wizardKitUi.ui/ToggleActivity/ToggleActivity/#/PointingToDeclaration/app/com.tot.wizardKitUi.ui/-toggle-activity/-toggle-activity.html
+$dokka.location:com.tot.wizardKitUi.ui/TypographyActivity///PointingToDeclaration/app/com.tot.wizardKitUi.ui/-typography-activity/index.html
+$dokka.location:com.tot.wizardKitUi.ui/TypographyActivity/TypographyActivity/#/PointingToDeclaration/app/com.tot.wizardKitUi.ui/-typography-activity/-typography-activity.html
+$dokka.location:com.tot.wizardKitUi.ui/YesNoSwitchActivity///PointingToDeclaration/app/com.tot.wizardKitUi.ui/-yes-no-switch-activity/index.html
+$dokka.location:com.tot.wizardKitUi.ui/YesNoSwitchActivity/YesNoSwitchActivity/#/PointingToDeclaration/app/com.tot.wizardKitUi.ui/-yes-no-switch-activity/-yes-no-switch-activity.html
+$dokka.location:com.tot.wizardKitUi.utils////PointingToDeclaration/app/com.tot.wizardKitUi.utils/index.html
+$dokka.location:com.tot.wizardKitUi.utils/RatingUtils///PointingToDeclaration/app/com.tot.wizardKitUi.utils/-rating-utils/index.html
+$dokka.location:com.tot.wizardKitUi.utils/RatingUtils/openPlayStoreRating/#android.content.Context/PointingToDeclaration/app/com.tot.wizardKitUi.utils/-rating-utils/open-play-store-rating.html
+$dokka.location:com.tot.wizardKitUi.utils/RatingUtils/sendEmailFeedback/#android.content.Context#kotlin.String/PointingToDeclaration/app/com.tot.wizardKitUi.utils/-rating-utils/send-email-feedback.html
+$dokka.location:com.tot.wizardKitUi////PointingToDeclaration/app/com.tot.wizardKitUi/index.html
+$dokka.location:com.tot.wizardKitUi/WizardAppApplication///PointingToDeclaration/app/com.tot.wizardKitUi/-wizard-app-application/index.html
+$dokka.location:com.tot.wizardKitUi/WizardAppApplication/WizardAppApplication/#/PointingToDeclaration/app/com.tot.wizardKitUi/-wizard-app-application/-wizard-app-application.html
+com.tot.wizardKitUi
+com.tot.wizardKitUi.adapter
+com.tot.wizardKitUi.ui
+com.tot.wizardKitUi.utils
+
